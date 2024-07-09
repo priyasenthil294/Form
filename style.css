@@ -1,0 +1,53 @@
+div {
+    margin: auto;
+    height: 620px;
+    width: 400px;
+    border: 3px solid black;
+    margin-top: 100px;
+  }
+  
+  #mn {
+    height: 30px;
+    width: 170px;
+    margin-left: 5px;
+    margin-top: 10px;
+    width: 360px;
+  }
+  #np {
+    height: 30px;
+    width: 170px;
+    margin-left: 5px;
+    margin-top: 10px;
+    width: 360px;
+  }
+  p {
+    margin-left: 5px;
+  }
+  #sn,
+  #fn {
+    height: 30px;
+    width: 170px;
+    margin-left: 5px;
+  }
+  #do {
+    height: 30px;
+    width: 170px;
+    margin-left: 5px;
+  }
+  #span1,
+  #span2,
+  #span3 {
+    text-decoration: underline;
+    color: darkslateblue;
+  }
+  h3 {
+    border: 5px solid rgb(44, 222, 16);
+    width: 130px;
+    height: 50x;
+    background-color: rgb(44, 222, 16);
+    color: white;
+    box-shadow: 3px 3px 3px black;
+    border-radius: 5px 5px 5px 5px;
+  }
+  
+  
